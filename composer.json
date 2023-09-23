@@ -2,6 +2,7 @@
     "name": "shipping/track",
     "description": "calcular frete dos correios br",
     "type": "lib",
+    "license": "MIT",
     "authors": [
         {
             "name": "Renan Constancio",
